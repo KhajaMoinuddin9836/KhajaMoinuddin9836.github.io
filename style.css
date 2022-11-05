@@ -94,6 +94,30 @@ section .title::after {
     transform: translateX(-50%);
 }
 
+.git{
+
+    margin-left: 200px;
+    margin-top: -70px;
+}
+.git :hover{
+
+    cursor: pointer;
+}
+
+.git h2{
+
+    font-family: "Poppins",sans-serif;
+}
+.git1{
+
+    margin-left: 350px;
+    margin-top: 20px;
+}
+.git1 :hover{
+
+    cursor: pointer;
+}
+
 /* navbar styling */
 
 .navbar {
